@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543779304099",
+    "project_id": "luxerproject",
+    "storage_bucket": "luxerproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543779304099:android:4376d2358bdb1b3d198516",
+        "android_client_info": {
+          "package_name": "com.example.luxer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnarDTvdX882nOEtgnDGa3hxx-2o1Ls4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
